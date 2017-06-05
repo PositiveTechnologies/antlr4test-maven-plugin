@@ -4,7 +4,7 @@ antlr4test-maven-plugin
 Travis Status
 ---------
 
-<a href="https://travis-ci.org/teverett/antlr4test-maven-plugin"><img src="https://api.travis-ci.org/teverett/antlr4test-maven-plugin.png"></a>
+<a href="https://travis-ci.org/antlr/antlr4test-maven-plugin"><img src="https://api.travis-ci.org/antlr/antlr4test-maven-plugin.png"></a>
 
 Maven Mojo for testing [Antlr4](http://www.antlr.org/) Grammars
 
